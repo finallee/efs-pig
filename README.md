@@ -1,4 +1,9 @@
-My Awesome Book
+文档控制
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+| 日期 | 更新人 | 版本 | 备注 |
+| -- | -- | -- | -- | -- |
+| 2014-11-10 | 王晶、张崑 | V1.0 |  |
+| 2015-01-27 | 王晶、张崑 | V1.1 |  |
+| 2015-02-28 | 张崑 | V1.2 | ||
+
